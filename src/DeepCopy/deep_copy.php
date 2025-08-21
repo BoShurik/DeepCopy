@@ -10,11 +10,12 @@ if (false === function_exists('DeepCopy\deep_copy')) {
      *
      * @param mixed $value
      * @param bool  $useCloneMethod
+     * @param bool  $stateless
      *
      * @return mixed
      */
-    function deep_copy($value, $useCloneMethod = false)
+    function deep_copy($value, $useCloneMethod = false, $stateless = true)
     {
-        return (new DeepCopy($useCloneMethod))->copy($value);
+        return (new DeepCopy($useCloneMethod, $stateless))->copy($value);
     }
 }
