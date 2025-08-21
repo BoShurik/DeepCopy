@@ -1,5 +1,5 @@
 {
-    "name": "myclabs/deep-copy",
+    "name": "boshurik/deep-copy",
     "description": "Create deep copies (clones) of your objects",
     "license": "MIT",
     "type": "library",
@@ -21,7 +21,8 @@
     },
     "conflict": {
         "doctrine/collections": "<1.6.8",
-        "doctrine/common": "<2.13.3 || >=3 <3.2.2"
+        "doctrine/common": "<2.13.3 || >=3 <3.2.2",
+        "myclabs/deep-copy": "*"
     },
     "autoload": {
         "psr-4": {
