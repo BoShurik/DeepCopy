@@ -21,8 +21,7 @@
     },
     "conflict": {
         "doctrine/collections": "<1.6.8",
-        "doctrine/common": "<2.13.3 || >=3 <3.2.2",
-        "myclabs/deep-copy": "*"
+        "doctrine/common": "<2.13.3 || >=3 <3.2.2"
     },
     "autoload": {
         "psr-4": {
