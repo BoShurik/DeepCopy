@@ -26,16 +26,16 @@
     },
     "autoload": {
         "psr-4": {
-            "DeepCopy\\": "src/DeepCopy/"
+            "BoShurik\\DeepCopy\\": "src/"
         },
         "files": [
-            "src/DeepCopy/deep_copy.php"
+            "src/deep_copy.php"
         ]
     },
     "autoload-dev": {
         "psr-4": {
-            "DeepCopyTest\\": "tests/DeepCopyTest/",
-            "DeepCopy\\": "fixtures/"
+            "BoShurik\\DeepCopy\\Test\\": "tests/",
+            "BoShurik\\DeepCopy\\": "fixtures/"
         }
     },
     "config": {

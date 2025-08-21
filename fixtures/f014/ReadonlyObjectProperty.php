@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DeepCopy\f014;
+namespace BoShurik\DeepCopy\f014;
 
 class ReadonlyObjectProperty
 {

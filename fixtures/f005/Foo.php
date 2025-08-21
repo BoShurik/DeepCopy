@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DeepCopy\f005;
+namespace BoShurik\DeepCopy\f005;
 
 class Foo
 {

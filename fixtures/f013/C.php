@@ -1,6 +1,6 @@
 <?php
 
-namespace DeepCopy\f013;
+namespace BoShurik\DeepCopy\f013;
 
 class C
 {

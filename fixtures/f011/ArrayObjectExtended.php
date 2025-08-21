@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DeepCopy\f011;
+namespace BoShurik\DeepCopy\f011;
 
 use ArrayObject;
 

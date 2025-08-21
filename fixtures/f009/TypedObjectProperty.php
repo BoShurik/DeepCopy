@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DeepCopy\f009;
+namespace BoShurik\DeepCopy\f009;
 
 class TypedObjectProperty
 {

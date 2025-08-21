@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DeepCopy\f001;
+namespace BoShurik\DeepCopy\f001;
 
 class B extends A
 {

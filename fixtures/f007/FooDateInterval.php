@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DeepCopy\f007;
+namespace BoShurik\DeepCopy\f007;
 
 use DateInterval;
 

@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DeepCopy\f012;
+namespace BoShurik\DeepCopy\f012;
 
 enum Suit: string
 {

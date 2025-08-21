@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DeepCopy\f004;
+namespace BoShurik\DeepCopy\f004;
 
 use BadMethodCallException;
 
